@@ -34,6 +34,17 @@
     
     <entry>
       <title></title>
+      <link href="/README.html"/>
+      <url>/README.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="yangzhi-1-github-io"><a href="#yangzhi-1-github-io" class="headerlink" title="yangzhi-1.github.io"></a>yangzhi-1.github.io</h1><h2 id="记录我的Hexo博客搭建的点点滴滴"><a href="#记录我的Hexo博客搭建的点点滴滴" class="headerlink" title="记录我的Hexo博客搭建的点点滴滴"></a>记录我的Hexo博客搭建的点点滴滴</h2><blockquote><p><strong>博客地址：<a href="https://yangzhiblog.com/">https://yangzhiblog.com/</a></strong></p><h3 id="一、2022-09-05（开始）"><a href="#一、2022-09-05（开始）" class="headerlink" title="一、2022/09/05（开始）"></a>一、2022/09/05（开始）</h3><p><img src="https://user-images.githubusercontent.com/98074256/188428230-44a2c285-dc38-404b-b51a-1c6ce43fe7e0.png" alt="image"><br><img src="https://user-images.githubusercontent.com/98074256/188428321-96b77f12-3542-4c4a-a0a0-2354495c66bd.png" alt="image"></p><h3 id="二、2022-09-06（细节优化）"><a href="#二、2022-09-06（细节优化）" class="headerlink" title="二、2022/09/06（细节优化）"></a>二、2022/09/06（细节优化）</h3><p><img src="https://s2.loli.net/2022/09/06/7epIBNgMTXWCGPt.jpg" alt="3.jpg"><br><img src="https://s2.loli.net/2022/09/06/bhtXWdH7xz84fsE.jpg" alt="4.jpg"></p></blockquote>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/manifest.json"/>
       <url>/manifest.json</url>
       
