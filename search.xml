@@ -67,6 +67,17 @@
     
     <entry>
       <title></title>
+      <link href="/js/runtime/runtime.js"/>
+      <url>/js/runtime/runtime.js</url>
+      
+        <content type="html"><![CDATA[var now = new Date; function createtime() { var t = new Date("09/05/2022 00:00:00"); now.setTime(now.getTime() + 250); var e = (now - t) / 1e3 / 60 / 60 / 24, a = Math.floor(e), n = (now - t) / 1e3 / 60 / 60 - 24 * a, r = Math.floor(n); 1 == String(r).length && (r = "0" + r); var s = (now - t) / 1e3 / 60 - 1440 * a - 60 * r, i = Math.floor(s); 1 == String(i).length && (i = "0" + i); var o = (now - t) / 1e3 - 86400 * a - 3600 * r - 60 * i, l = Math.round(o); 1 == String(l).length && (l = "0" + l); let g = ""; g = r < 18 && r >= 9 ? `<img class='boardsign' src='/img/shangban.svg' title='距离月入25k也就还差一个大佬带我~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>` : `<img class='boardsign' src='/img/xiaban.svg' title='下班了就该开开心心的玩耍，嘿嘿~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`, document.getElementById("workboard") && (document.getElementById("workboard").innerHTML = g) } setInterval((() => { createtime() }), 250);]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/css/coin/coin.css"/>
       <url>/css/coin/coin.css</url>
       
@@ -93,17 +104,6 @@
       <url>/js/coin/coin.js</url>
       
         <content type="html"><![CDATA[var tipButtons = document.querySelectorAll('.tip-button');function coinAudio() {  var coinAudio = document.getElementById('coinAudio');  if (coinAudio) {    coinAudio.play(); //有音频时播放  }}// Loop through all buttons (allows for multiple buttons on page)tipButtons.forEach(button => {  var coin = button.querySelector('.coin');  // The larger the number, the slower the animation  coin.maxMoveLoopCount = 90;  button.addEventListener('click', () => {    if (/Android|webOS|BlackBerry/i.test(navigator.userAgent)) return true; //媒体选择    if (button.clicked) return;    button.classList.add('clicked');    // Wait to start flipping th coin because of the button tilt animation    setTimeout(() => {      // Randomize the flipping speeds just for fun      coin.sideRotationCount = Math.floor(Math.random() * 5) * 90;      coin.maxFlipAngle = (Math.floor(Math.random() * 4) + 3) * Math.PI;      button.clicked = true;      flipCoin();      coinAudio();    }, 50);  });  var flipCoin = () => {    coin.moveLoopCount = 0;    flipCoinLoop();  };  var resetCoin = () => {    coin.style.setProperty('--coin-x-multiplier', 0);    coin.style.setProperty('--coin-scale-multiplier', 0);    coin.style.setProperty('--coin-rotation-multiplier', 0);    coin.style.setProperty('--shine-opacity-multiplier', 0.4);    coin.style.setProperty('--shine-bg-multiplier', '50%');    coin.style.setProperty('opacity', 1);    // Delay to give the reset animation some time before you can click again    setTimeout(() => {      button.clicked = false;    }, 300);  };  var flipCoinLoop = () => {    coin.moveLoopCount++;    var percentageCompleted = coin.moveLoopCount / coin.maxMoveLoopCount;    coin.angle = -coin.maxFlipAngle * Math.pow(percentageCompleted - 1, 2) + coin.maxFlipAngle;    // Calculate the scale and position of the coin moving through the air    coin.style.setProperty('--coin-y-multiplier', -11 * Math.pow(percentageCompleted * 2 - 1, 4) + 11);    coin.style.setProperty('--coin-x-multiplier', percentageCompleted);    coin.style.setProperty('--coin-scale-multiplier', percentageCompleted * 0.6);    coin.style.setProperty('--coin-rotation-multiplier', percentageCompleted * coin.sideRotationCount);    // Calculate the scale and position values for the different coin faces    // The math uses sin/cos wave functions to similate the circular motion of 3D spin    coin.style.setProperty('--front-scale-multiplier', Math.max(Math.cos(coin.angle), 0));    coin.style.setProperty('--front-y-multiplier', Math.sin(coin.angle));    coin.style.setProperty('--middle-scale-multiplier', Math.abs(Math.cos(coin.angle), 0));    coin.style.setProperty('--middle-y-multiplier', Math.cos((coin.angle + Math.PI / 2) % Math.PI));    coin.style.setProperty('--back-scale-multiplier', Math.max(Math.cos(coin.angle - Math.PI), 0));    coin.style.setProperty('--back-y-multiplier', Math.sin(coin.angle - Math.PI));    coin.style.setProperty('--shine-opacity-multiplier', 4 * Math.sin((coin.angle + Math.PI / 2) % Math.PI) - 3.2);    coin.style.setProperty(      '--shine-bg-multiplier',      -40 * (Math.cos((coin.angle + Math.PI / 2) % Math.PI) - 0.5) + '%'    );    // Repeat animation loop    if (coin.moveLoopCount < coin.maxMoveLoopCount) {      if (coin.moveLoopCount === coin.maxMoveLoopCount - 6) button.classList.add('shrink-landing');      window.requestAnimationFrame(flipCoinLoop);    } else {      button.classList.add('coin-landed');      coin.style.setProperty('opacity', 0);      setTimeout(() => {        button.classList.remove('clicked', 'shrink-landing', 'coin-landed');        setTimeout(() => {          resetCoin();        }, 300);      }, 1500);    }  };});]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/runtime/runtime.js"/>
-      <url>/js/runtime/runtime.js</url>
-      
-        <content type="html"><![CDATA[var now = new Date; function createtime() { var t = new Date("09/05/2022 00:00:00"); now.setTime(now.getTime() + 250); var e = (now - t) / 1e3 / 60 / 60 / 24, a = Math.floor(e), n = (now - t) / 1e3 / 60 / 60 - 24 * a, r = Math.floor(n); 1 == String(r).length && (r = "0" + r); var s = (now - t) / 1e3 / 60 - 1440 * a - 60 * r, i = Math.floor(s); 1 == String(i).length && (i = "0" + i); var o = (now - t) / 1e3 - 86400 * a - 3600 * r - 60 * i, l = Math.round(o); 1 == String(l).length && (l = "0" + l); let g = ""; g = r < 18 && r >= 9 ? `<img class='boardsign' src='/img/shangban.svg' title='距离月入25k也就还差一个大佬带我~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>` : `<img class='boardsign' src='/img/xiaban.svg' title='下班了就该开开心心的玩耍，嘿嘿~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`, document.getElementById("workboard") && (document.getElementById("workboard").innerHTML = g) } setInterval((() => { createtime() }), 250);]]></content>
       
     </entry>
     
