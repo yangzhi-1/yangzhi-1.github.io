@@ -37,27 +37,6 @@
   </entry>
   
   <entry>
-    <title>炸弹小分队私服搭建教程</title>
-    <link href="https://www.yangzhiblog.com/posts/4be6a56.html"/>
-    <id>https://www.yangzhiblog.com/posts/4be6a56.html</id>
-    <published>2022-09-10T02:54:06.000Z</published>
-    <updated>2022-09-10T09:51:33.780Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="一、游戏简介"><a href="#一、游戏简介" class="headerlink" title="一、游戏简介"></a>一、游戏简介</h1><blockquote><p>中文名称：炸弹小分队<br>英文名称：BombSquad<br>描述：《炸弹小分队》是一款动作类的游戏，游戏模式有很多种，可以选择单机或者是联机模式，游戏开始时可以先按屏幕右下方的红色按钮，把炸弹抛出来，丢到敌方的脚底下，直接轰炸他。别人向你扔炸弹时，在还没有炸掉的情况下，可以把炸弹捡起来再扔出去，在同时出现三个炸弹的情况下，只要是连在一起的方块，那就是能连续发炸弹的工具，这种攻击方式不亚于任何一种炸弹类的道具。多人联机的情况下点击右上角小人的标志，可以和玩家一起聊天。</p></blockquote><h1 id="二、游戏截图"><a href="#二、游戏截图" class="headerlink" title="二、游戏截图"></a>二、游戏截图</h1><p><img src="https://fast.yunpan888.com/yangzhi-1/1.jpg" alt="1"></p><h1 id="三、私服搭建流程"><a href="#三、私服搭建流程" class="headerlink" title="三、私服搭建流程"></a>三、私服搭建流程</h1><h2 id="①拥有一台服务器"><a href="#①拥有一台服务器" class="headerlink" title="①拥有一台服务器"></a>①拥有一台服务器</h2><p>服务器其实很好弄来，你去华为云、腾讯云或者阿里云注册一个新用户，都会有一个月的免费试用服务器的资格，然后完成服务器配置就可以，服务器系统记得选择<code>Windows Server</code>，我这里选择的是<code>Windows Server 2022 DataCenter 64bit CN</code>，当然选择其他版本也可以，大家根据实际情况选择。<br>服务器选择完毕后，修改你的服务器密码，在你的电脑中搜索<code>远程桌面连接</code>，输入你的服务器公网IP，然后点击连接，会提示你输入用户名和密码，windows系统默认用户名是<code>Administrator</code>，密码就是你刚才设置的密码，然后点击连接，进去后就跟你的电脑桌面一样，如下图所示：</p><p><img src="https://fast.yunpan888.com/yangzhi-1/2.jpg" alt="2"></p><h1 id="四、防火墙开启UDP-43210端口"><a href="#四、防火墙开启UDP-43210端口" class="headerlink" title="四、防火墙开启UDP:43210端口"></a>四、防火墙开启<code>UDP:43210</code>端口</h1><p>进入你的服务器控制台，打开你的服务器控制页面，点击防火墙（安全组），点击添加规则，协议选择<code>UDP</code>，端口号填写<code>43210</code>，然后点击确定即可。</p><h1 id="五、安装服务器服务端"><a href="#五、安装服务器服务端" class="headerlink" title="五、安装服务器服务端"></a>五、安装服务器服务端</h1><div class="btns rounded center wide grid3">            <a class="button" href='https://fast.yunpan888.com/%E7%82%B9%E5%87%BB%E6%9F%A5%E7%9C%8B%E8%B5%84%E6%BA%90%E7%9B%AE%E5%BD%95/%E7%82%B8%E5%BC%B9%E5%B0%8F%E5%88%86%E9%98%9F/' title='点击进入服务端下载页面'><i class='fas fa-download'></i>点击进入服务端下载页面</a>          </div><p>复制服务端下载页面（可以用自己电脑进入下载页面后，复制地址栏链接），然后打开服务器里面的浏览器，将复制的链接粘贴进浏览器，按回车键，然后下载Windows服务端即可。</p><p><img src="https://fast.yunpan888.com/yangzhi-1/3.jpg" alt="3"></p><p>下载完成后，将压缩包复制到服务器桌面，将压缩包解压到桌面。</p><p><img src="https://fast.yunpan888.com/yangzhi-1/4.jpg" alt="4"></p><p>打开解压完的文件夹，双击打开<code>launch_bombsquad_server</code>，弹出以下界面则表明搭建成功。</p><p><img src="https://fast.yunpan888.com/yangzhi-1/5.jpg" alt="5"><br><img src="https://fast.yunpan888.com/yangzhi-1/6.jpg" alt="6"></p><h1 id="六、游戏连接到服务器"><a href="#六、游戏连接到服务器" class="headerlink" title="六、游戏连接到服务器"></a>六、游戏连接到服务器</h1><div class="btns rounded center wide grid3">            <a class="button" href='https://fast.yunpan888.com/%E7%82%B9%E5%87%BB%E6%9F%A5%E7%9C%8B%E8%B5%84%E6%BA%90%E7%9B%AE%E5%BD%95/%E7%82%B8%E5%BC%B9%E5%B0%8F%E5%88%86%E9%98%9F/' title='点击进入游戏下载页面'><i class='fas fa-download'></i>点击进入游戏下载页面</a>          </div><p>点击上方按钮进入游戏下载页面，，里面有安卓版和电脑版（Win），根据自身需求进行下载，下载完成后开始开始连接到服务器。这里我以电脑版为例，给大家演示电脑版是如何连接到服务器的，手机版跟电脑版流程一样。<br>下载电脑版，然后解压，打开解压后的文件夹即可看到以下内容：</p><p><img src="https://fast.yunpan888.com/yangzhi-1/7.jpg" alt="7"></p><p>双击<code>BombSquad.exe</code>文件打开游戏，点击<code>Gather</code>，点击<code>Manual</code>，在Address里面输入你的服务器公网IP，Port默认就是<code>43210</code>，无需修改，可以点击<code>Save As Favoorate</code>收藏该地址，方便下次进入，一切准备就绪，点击<code>Connect</code>，即可进入游戏了。<br>你可以喊上你的好友一起进入该服务器地址，手机和电脑可以一起玩哟~</p><p><img src="https://fast.yunpan888.com/yangzhi-1/8.jpg" alt="8"><br><img src="https://fast.yunpan888.com/yangzhi-1/9.jpg" alt="9"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;一、游戏简介&quot;&gt;&lt;a href=&quot;#一、游戏简介&quot; class=&quot;headerlink&quot; title=&quot;一、游戏简介&quot;&gt;&lt;/a&gt;一、游戏简介&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;中文名称：炸弹小分队&lt;br&gt;英文名称：BombSquad&lt;br&gt;描述：《炸弹小分队</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>如何搭建属于自己的网站？</title>
     <link href="https://www.yangzhiblog.com/posts/a0af7cd3.html"/>
     <id>https://www.yangzhiblog.com/posts/a0af7cd3.html</id>
