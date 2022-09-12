@@ -6,7 +6,7 @@
   <link href="https://www.yangzhiblog.com/atom.xml" rel="self"/>
   
   <link href="https://www.yangzhiblog.com/"/>
-  <updated>2022-09-12T02:39:46.884Z</updated>
+  <updated>2022-09-12T02:52:46.988Z</updated>
   <id>https://www.yangzhiblog.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://www.yangzhiblog.com/posts/80f8bbb1.html"/>
     <id>https://www.yangzhiblog.com/posts/80f8bbb1.html</id>
     <published>2022-09-12T01:50:06.000Z</published>
-    <updated>2022-09-12T02:39:46.884Z</updated>
+    <updated>2022-09-12T02:52:46.988Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="截图预览"><a href="#截图预览" class="headerlink" title="截图预览"></a>截图预览</h1><p><img src="https://fast.yunpan888.com/yangzhi-1/fireworks.jpg" alt="fireworks"></p><h1 id="视频预览"><a href="#视频预览" class="headerlink" title="视频预览"></a>视频预览</h1><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=285926619&bvid=BV1Bt4y1774r&cid=200752085&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div><h1 id="源码下载"><a href="#源码下载" class="headerlink" title="源码下载"></a>源码下载</h1><div class="btns rounded center wide grid3">            <a class="button" href='https://github.com/yangzhi-1/fireworks' title='点击进入github下载页面'><i class='fas fa-download'></i>点击进入github下载页面</a><a class="button" href='https://wwt.lanzout.com/iN6NE0bdluof' title='点击进入蓝奏云下载页面 密码:7mt0'><i class='fas fa-download'></i>点击进入蓝奏云下载页面 密码:7mt0</a>          </div><h1 id="搭建方法"><a href="#搭建方法" class="headerlink" title="搭建方法"></a>搭建方法</h1><p>将代码下载到本地，使用宝塔面板添加一个站点，删除站点里的初始文件，然后将压缩包上传到对应的站点目录，解压后即可打开。<br>如果不会操作可以参考这篇文章：<a href="https://www.yangzhiblog.com/posts/a0af7cd3.html">https://www.yangzhiblog.com/posts/a0af7cd3.html</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="截图预览"><a href="#截图预览" class="headerlink" title="截图预览"></a>截图预览</h1><p><img src="https://fast.yunpan888.com/yangzhi-1/fireworks.jpg" alt="fireworks"></p><h1 id="视频预览"><a href="#视频预览" class="headerlink" title="视频预览"></a>视频预览</h1><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=985325603&bvid=BV1Bt4y1774r&cid=828204048&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div><h1 id="源码下载"><a href="#源码下载" class="headerlink" title="源码下载"></a>源码下载</h1><div class="btns rounded center wide grid3">            <a class="button" href='https://github.com/yangzhi-1/fireworks' title='点击进入github下载页面'><i class='fas fa-download'></i>点击进入github下载页面</a><a class="button" href='https://wwt.lanzout.com/iN6NE0bdluof' title='点击进入蓝奏云下载页面 密码:7mt0'><i class='fas fa-download'></i>点击进入蓝奏云下载页面 密码:7mt0</a>          </div><h1 id="搭建方法"><a href="#搭建方法" class="headerlink" title="搭建方法"></a>搭建方法</h1><p>将代码下载到本地，使用宝塔面板添加一个站点，删除站点里的初始文件，然后将压缩包上传到对应的站点目录，解压后即可打开。<br>如果不会操作可以参考这篇文章：<a href="https://www.yangzhiblog.com/posts/a0af7cd3.html">https://www.yangzhiblog.com/posts/a0af7cd3.html</a></p>]]></content>
     
     
       
