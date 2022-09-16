@@ -6,7 +6,7 @@
   <link href="https://www.yangzhiblog.com/atom.xml" rel="self"/>
   
   <link href="https://www.yangzhiblog.com/"/>
-  <updated>2022-09-16T01:13:18.527Z</updated>
+  <updated>2022-09-16T10:13:26.312Z</updated>
   <id>https://www.yangzhiblog.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>羊了个羊重复进入第一关教程</title>
+    <link href="https://www.yangzhiblog.com/posts/3949abb2.html"/>
+    <id>https://www.yangzhiblog.com/posts/3949abb2.html</id>
+    <published>2022-09-16T09:52:07.000Z</published>
+    <updated>2022-09-16T10:13:26.312Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="羊了个羊重复进入第一关教程（此教程仅针对电脑版）"><a href="#羊了个羊重复进入第一关教程（此教程仅针对电脑版）" class="headerlink" title="羊了个羊重复进入第一关教程（此教程仅针对电脑版）"></a>羊了个羊重复进入第一关教程（此教程仅针对电脑版）</h1><p>①登陆PC微信<br>②打开微信左下角设置/文件管理/打开文件夹，然后直接打开<code>Applet</code>文件夹，再打开一个以<code>c970a9</code>结尾的文件夹，打开后进入<code>usr</code>文件夹，打开<code>gamecaches</code>文件夹，最后打开<code>resources</code>文件夹，进去后一般是修改第三行那个大小为2KB的<code>json</code>文件,把文件内容修改为以下内容即可：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[1,0,0,[[&quot;cc.JsonAsset&quot;,[&quot;_name&quot;,&quot;json&quot;],1]],[[0,0,1,3]],[[0,&quot;levelConfigData&quot;,&#123;&quot;dailyLevel&quot;:[[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001],[80001,80001]],&quot;topicLevel&quot;:[[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017],[10017,10017]]&#125;]],0,0,[],[],[]]</span><br></pre></td></tr></table></figure><p>③点击保存<br>④打开羊了个羊就可以开始了，进入后会重复四次第一关，然后就可以了。</p><h2 id="注意：该方法电脑上通关后手机上好像没有装扮"><a href="#注意：该方法电脑上通关后手机上好像没有装扮" class="headerlink" title="注意：该方法电脑上通关后手机上好像没有装扮"></a>注意：该方法电脑上通关后手机上好像没有装扮</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;羊了个羊重复进入第一关教程（此教程仅针对电脑版）&quot;&gt;&lt;a href=&quot;#羊了个羊重复进入第一关教程（此教程仅针对电脑版）&quot; class=&quot;headerlink&quot; title=&quot;羊了个羊重复进入第一关教程（此教程仅针对电脑版）&quot;&gt;&lt;/a&gt;羊了个羊重复进入第一关教程（</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>羊了个羊无限道具教程</title>
