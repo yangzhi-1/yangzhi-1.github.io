@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Spotify注册及使用注意事项</title>
+      <link href="/posts/84ef40ab.html"/>
+      <url>/posts/84ef40ab.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="注册"><a href="#注册" class="headerlink" title="注册"></a>注册</h2><div class="tip home faa-horizontal animated"><p>①Spotify注册需要使用原生节点，否则会提示你注册失败，相信好多小伙伴都卡在了这一步，不过没关系，可以去Bilibili私信我，我看到后会帮助你注册。</p></div>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>羊了个羊快乐通关教程</title>
       <link href="/posts/2150b47.html"/>
       <url>/posts/2150b47.html</url>
@@ -85,44 +98,11 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="仰止·Blog简介"><a href="#仰止·Blog简介" class="headerlink" title="仰止·Blog简介"></a>仰止·Blog简介</h1><div class="tip key"><p>“仰止”取自《诗经·小雅·车辖》里的“高山仰止，景行行止”，有行为正大光明，经常“喻以崇高的品行”之意。一直以来，我都想有一个属于自己的博客，在B站上看来许多相关的内容，觉得Hexo博客框架配合butterfly这个主题是真的好看，但是在最开始的时候，我觉得hexo博客上手难度高，所以就没有行动，直到我在B站刷到了一个相关的教学视频，视频内容思路非常清晰，我决定试一试。我顺利完成了node.js和git的安装，相关环境准备完毕后，输入一系列指令，有了博客的雏形；在此期间，我失败过一次，运行过程中频频报错，我也没有学过编程，所以只好重新开始。随后又不断完善优化，才有了今天你们看到的样子，整个过程用了四天。在这个过程中，我也学到了很多，比如：学会了如何使用github托管代码（这是最主要的）。<br>最后，感谢每一个到访我的博客的朋友，谢谢你们的支持！</p></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/manifest.json"/>
       <url>/manifest.json</url>
       
         <content type="html"><![CDATA[{"name":"仰止·Blog","short_name":"仰止","theme_color":"#49b1f5","background_color":"#49b1f5","display":"standalone","scope":"/","start_url":"/","icons":[{"src":"/img/siteicon/16.png","sizes":"16x16","type":"image/png"},{"src":"/img/siteicon/32.png","sizes":"32x32","type":"image/png"},{"src":"/img/siteicon/48.png","sizes":"48x48","type":"image/png"},{"src":"/img/siteicon/64.png","sizes":"64x64","type":"image/png"},{"src":"/img/siteicon/128.png","sizes":"128x128","type":"image/png"},{"src":"/img/siteicon/144.png","sizes":"144x144","type":"image/png"},{"src":"/img/siteicon/512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
-      
-        <content type="html"><![CDATA[/* @font-face {  font-family: Candyhome;  src: url(https://npm.elemecdn.com/anzhiyu-blog@1.1.6/fonts/Candyhome.ttf);  font-display: swap;  font-weight: lighter;} */@font-face {    font-family: ZhuZiAYuanJWD;    src: url(https://npm.elemecdn.com/anzhiyu-blog@1.1.6/fonts/ZhuZiAWan.woff2);    font-display: swap;    font-weight: lighter;  }    div#menus {    font-family: 'ZhuZiAYuanJWD';  }  h1#site-title {    font-family: ZhuZiAYuanJWD;    font-size: 3em !important;  }  a.article-title,  a.blog-slider__title,  a.categoryBar-list-link,  h1.post-title {    font-family: ZhuZiAYuanJWD;  }    .iconfont {    font-family: 'iconfont' !important;    font-size: 3em;    /* 可以定义图标大小 */    font-style: normal;    -webkit-font-smoothing: antialiased;    -moz-osx-font-smoothing: grayscale;  }    /* 时间轴生肖icon */  svg.icon {    /* 这里定义svg.icon，避免和Butterfly自带的note标签冲突 */    width: 1em;    height: 1em;    /* width和height定义图标的默认宽度和高度*/    vertical-align: -0.15em;    fill: currentColor;    overflow: hidden;  }    .icon-zhongbiao::before {    color: #f7c768;  }    /* bilibli番剧插件 */  .bangumi-active {    background: #dbecfe !important;    border-radius: 10px !important;  }  a.bangumi-tab:hover {    text-decoration: none !important;  }  .bangumi-button:hover {    background: #dbecfe !important;    border-radius: 10px !important;  }  a.bangumi-button.bangumi-nextpage:hover {    text-decoration: none !important;  }  .bangumi-button {    padding: 5px 10px !important;  }    a.bangumi-tab {    padding: 5px 10px !important;  }  svg.icon.faa-tada {    font-size: 1.1em;  }    /* 解决artitalk的图标问题 */  #uploadSource > svg {    width: 1.19em;    height: 1.5em;  }    /*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */  #page-header:not(.not-top-img):before {    background-color: transparent !important;  }    /* 首页文章卡片 */  #recent-posts > .recent-post-item {    background: rgba(255, 255, 255, 0.9);  }    /* 首页侧栏卡片 */  #aside-content .card-widget {    background: rgba(255, 255, 255, 0.9);  }    /* 文章页面正文背景 */  div#post {    background: rgba(255, 255, 255, 0.9);  }    /* 分页页面 */  div#page {    background: rgba(255, 255, 255, 0.9);  }    /* 归档页面 */  div#archive {    background: rgba(255, 255, 255, 0.9);  }    /* 标签页面 */  div#tag {    background: rgba(255, 255, 255, 0.9);  }    /* 分类页面 */  div#category {    background: rgba(255, 255, 255, 0.9);  }    /*夜间模式伪类遮罩层透明*/  [data-theme='dark'] #recent-posts > .recent-post-item {    background: #121212;  }    [data-theme='dark'] .card-widget {    background: #121212 !important;  }    [data-theme='dark'] div#post {    background: #121212 !important;  }    [data-theme='dark'] div#tag {    background: #121212 !important;  }    [data-theme='dark'] div#archive {    background: #121212 !important;  }    [data-theme='dark'] div#page {    background: #121212 !important;  }    [data-theme='dark'] div#category {    background: #121212 !important;  }    [data-theme='dark'] div#category {    background: transparent !important;  }  /* 页脚透明 */  #footer {    background: transparent !important;  }    /* 头图透明 */  #page-header {    background: transparent !important;  }    #rightside > div > button {    border-radius: 5px;  }    /* 滚动条 */    ::-webkit-scrollbar {    width: 10px;    height: 10px;  }    ::-webkit-scrollbar-thumb {    background-color: #49b1f5;    border-radius: 2em;  }    ::-webkit-scrollbar-corner {    background-color: transparent;  }    ::-moz-selection {    color: #fff;    background-color: #49b1f5;  }    /* 音乐播放器 */    /* .aplayer .aplayer-lrc {    display: none !important;  } */    .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {    left: -66px !important;    transition: all 0.3s;    /* 默认情况下缩进左侧66px，只留一点箭头部分 */  }    .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {    left: 0 !important;    transition: all 0.3s;    /* 鼠标悬停是左侧缩进归零，完全显示按钮 */  }    .aplayer.aplayer-fixed {    z-index: 999999 !important;  }    /* 评论框  */  .vwrap {    box-shadow: 2px 2px 5px #bbb;    background: rgba(255, 255, 255, 0.3);    border-radius: 8px;    padding: 30px;    margin: 30px 0px 30px 0px;  }    /* 设置评论框 */    .vcard {    box-shadow: 2px 2px 5px #bbb;    background: rgba(255, 255, 255, 0.3);    border-radius: 8px;    padding: 30px;    margin: 30px 0px 0px 0px;  }    /* 鼠标图标 */  body {    cursor: url('/img/x1.cur'), auto;  }  a,  [type='button']:not(:disabled),  [type='reset']:not(:disabled),  [type='submit']:not(:disabled),  button:not(:disabled) {    cursor: url('/img/x2.cur'), auto !important;  }  /* md网站下划线 */  #article-container a:hover {    text-decoration: none !important;  }    #article-container #hpp_talk p img {    display: inline;  }    /* 404页面 */  #error-wrap {    position: absolute;    top: 40%;    right: 0;    left: 0;    margin: 0 auto;    padding: 0 1rem;    max-width: 1000px;    transform: translate(0, -50%);  }    #error-wrap .error-content {    display: flex;    flex-direction: row;    justify-content: center;    align-items: center;    margin: 0 1rem;    height: 18rem;    border-radius: 8px;    background: var(--card-bg);    box-shadow: var(--card-box-shadow);    transition: all 0.3s;  }    #error-wrap .error-content .error-img {    box-flex: 1;    flex: 1;    height: 100%;    border-top-left-radius: 8px;    border-bottom-left-radius: 8px;    background-color: #49b1f5;    background-position: center;    background-size: cover;  }    #error-wrap .error-content .error-info {    box-flex: 1;    flex: 1;    padding: 0.5rem;    text-align: center;    font-size: 14px;    font-family: Titillium Web, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;  }  #error-wrap .error-content .error-info .error_title {    margin-top: -4rem;    font-size: 9em;  }  #error-wrap .error-content .error-info .error_subtitle {    margin-top: -3.5rem;    word-break: break-word;    font-size: 1.6em;  }  #error-wrap .error-content .error-info a {    display: inline-block;    margin-top: 0.5rem;    padding: 0.3rem 1.5rem;    background: var(--btn-bg);    color: var(--btn-color);  }    #body-wrap.error .aside-list {    display: flex;    flex-direction: row;    flex-wrap: nowrap;    bottom: 0px;    position: absolute;    padding: 1rem;    width: 100%;    overflow: scroll;  }    #body-wrap.error .aside-list .aside-list-group {    display: flex;    flex-direction: row;    flex-wrap: nowrap;    max-width: 1200px;    margin: 0 auto;  }    #body-wrap.error .aside-list .aside-list-item {    padding: 0.5rem;  }    #body-wrap.error .aside-list .aside-list-item img {    width: 100%;    object-fit: cover;    border-radius: 12px;  }    #body-wrap.error .aside-list .aside-list-item .thumbnail {    overflow: hidden;    width: 230px;    height: 143px;    background: var(--heo-card-bg);    display: flex;  }    #body-wrap.error .aside-list .aside-list-item .content .title {    -webkit-line-clamp: 2;    overflow: hidden;    display: -webkit-box;    -webkit-box-orient: vertical;    line-height: 1.5;    justify-content: center;    align-items: flex-end;    align-content: center;    padding-top: 0.5rem;    color: white;  }    #body-wrap.error .aside-list .aside-list-item .content time {    display: none;  }    /* 代码框主题 */  #article-container figure.highlight {    border-radius: 10px;  }  ]]></content>
       
     </entry>
     
@@ -140,11 +120,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/coin/coin.js"/>
-      <url>/js/coin/coin.js</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[var tipButtons = document.querySelectorAll('.tip-button');function coinAudio() {  var coinAudio = document.getElementById('coinAudio');  if (coinAudio) {    coinAudio.play(); //有音频时播放  }}// Loop through all buttons (allows for multiple buttons on page)tipButtons.forEach(button => {  var coin = button.querySelector('.coin');  // The larger the number, the slower the animation  coin.maxMoveLoopCount = 90;  button.addEventListener('click', () => {    if (/Android|webOS|BlackBerry/i.test(navigator.userAgent)) return true; //媒体选择    if (button.clicked) return;    button.classList.add('clicked');    // Wait to start flipping th coin because of the button tilt animation    setTimeout(() => {      // Randomize the flipping speeds just for fun      coin.sideRotationCount = Math.floor(Math.random() * 5) * 90;      coin.maxFlipAngle = (Math.floor(Math.random() * 4) + 3) * Math.PI;      button.clicked = true;      flipCoin();      coinAudio();    }, 50);  });  var flipCoin = () => {    coin.moveLoopCount = 0;    flipCoinLoop();  };  var resetCoin = () => {    coin.style.setProperty('--coin-x-multiplier', 0);    coin.style.setProperty('--coin-scale-multiplier', 0);    coin.style.setProperty('--coin-rotation-multiplier', 0);    coin.style.setProperty('--shine-opacity-multiplier', 0.4);    coin.style.setProperty('--shine-bg-multiplier', '50%');    coin.style.setProperty('opacity', 1);    // Delay to give the reset animation some time before you can click again    setTimeout(() => {      button.clicked = false;    }, 300);  };  var flipCoinLoop = () => {    coin.moveLoopCount++;    var percentageCompleted = coin.moveLoopCount / coin.maxMoveLoopCount;    coin.angle = -coin.maxFlipAngle * Math.pow(percentageCompleted - 1, 2) + coin.maxFlipAngle;    // Calculate the scale and position of the coin moving through the air    coin.style.setProperty('--coin-y-multiplier', -11 * Math.pow(percentageCompleted * 2 - 1, 4) + 11);    coin.style.setProperty('--coin-x-multiplier', percentageCompleted);    coin.style.setProperty('--coin-scale-multiplier', percentageCompleted * 0.6);    coin.style.setProperty('--coin-rotation-multiplier', percentageCompleted * coin.sideRotationCount);    // Calculate the scale and position values for the different coin faces    // The math uses sin/cos wave functions to similate the circular motion of 3D spin    coin.style.setProperty('--front-scale-multiplier', Math.max(Math.cos(coin.angle), 0));    coin.style.setProperty('--front-y-multiplier', Math.sin(coin.angle));    coin.style.setProperty('--middle-scale-multiplier', Math.abs(Math.cos(coin.angle), 0));    coin.style.setProperty('--middle-y-multiplier', Math.cos((coin.angle + Math.PI / 2) % Math.PI));    coin.style.setProperty('--back-scale-multiplier', Math.max(Math.cos(coin.angle - Math.PI), 0));    coin.style.setProperty('--back-y-multiplier', Math.sin(coin.angle - Math.PI));    coin.style.setProperty('--shine-opacity-multiplier', 4 * Math.sin((coin.angle + Math.PI / 2) % Math.PI) - 3.2);    coin.style.setProperty(      '--shine-bg-multiplier',      -40 * (Math.cos((coin.angle + Math.PI / 2) % Math.PI) - 0.5) + '%'    );    // Repeat animation loop    if (coin.moveLoopCount < coin.maxMoveLoopCount) {      if (coin.moveLoopCount === coin.maxMoveLoopCount - 6) button.classList.add('shrink-landing');      window.requestAnimationFrame(flipCoinLoop);    } else {      button.classList.add('coin-landed');      coin.style.setProperty('opacity', 0);      setTimeout(() => {        button.classList.remove('clicked', 'shrink-landing', 'coin-landed');        setTimeout(() => {          resetCoin();        }, 300);      }, 1500);    }  };});]]></content>
+        <content type="html"><![CDATA[<h1 id="仰止·Blog简介"><a href="#仰止·Blog简介" class="headerlink" title="仰止·Blog简介"></a>仰止·Blog简介</h1><div class="tip home faa-horizontal animated"><p>“仰止”取自《诗经·小雅·车辖》里的“高山仰止，景行行止”，有行为正大光明，经常“喻以崇高的品行”之意。一直以来，我都想有一个属于自己的博客，在B站上看来许多相关的内容，觉得Hexo博客框架配合butterfly这个主题是真的好看，但是在最开始的时候，我觉得hexo博客上手难度高，所以就没有行动，直到我在B站刷到了一个相关的教学视频，视频内容思路非常清晰，我决定试一试。我顺利完成了node.js和git的安装，相关环境准备完毕后，输入一系列指令，有了博客的雏形；在此期间，我失败过一次，运行过程中频频报错，我也没有学过编程，所以只好重新开始。随后又不断完善优化，才有了今天你们看到的样子，整个过程用了四天。在这个过程中，我也学到了很多，比如：学会了如何使用github托管代码（这是最主要的）。<br>最后，感谢每一个到访我的博客的朋友，谢谢你们的支持！</p></div>]]></content>
       
     </entry>
     
@@ -152,10 +132,43 @@
     
     <entry>
       <title></title>
-      <link href="/js/runtime/runtime.min.js"/>
-      <url>/js/runtime/runtime.min.js</url>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[var now=new Date;function createtime(){var t=new Date("09/05/2022 00:00:00");now.setTime(now.getTime()+250);var e=(now-t)/1e3/60/60/24,a=Math.floor(e),n=(now-t)/1e3/60/60-24*a,r=Math.floor(n);1==String(r).length&&(r="0"+r);var s=(now-t)/1e3/60-1440*a-60*r,i=Math.floor(s);1==String(i).length&&(i="0"+i);var o=(now-t)/1e3-86400*a-3600*r-60*i,l=Math.round(o);1==String(l).length&&(l="0"+l);let g="";g=r<18&&r>=9?`<img class='boardsign' src='/img/shangban.svg' title='距离月入25k也就还差一个大佬带我~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`:`<img class='boardsign' src='/img/xiaban.svg' title='下班了就该开开心心的玩耍，嘿嘿~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=g)}setInterval(()=>{createtime()},250);]]></content>
+        <content type="html"><![CDATA[/* @font-face {  font-family: Candyhome;  src: url(https://npm.elemecdn.com/anzhiyu-blog@1.1.6/fonts/Candyhome.ttf);  font-display: swap;  font-weight: lighter;} */@font-face {    font-family: ZhuZiAYuanJWD;    src: url(https://npm.elemecdn.com/anzhiyu-blog@1.1.6/fonts/ZhuZiAWan.woff2);    font-display: swap;    font-weight: lighter;  }    div#menus {    font-family: 'ZhuZiAYuanJWD';  }  h1#site-title {    font-family: ZhuZiAYuanJWD;    font-size: 3em !important;  }  a.article-title,  a.blog-slider__title,  a.categoryBar-list-link,  h1.post-title {    font-family: ZhuZiAYuanJWD;  }    .iconfont {    font-family: 'iconfont' !important;    font-size: 3em;    /* 可以定义图标大小 */    font-style: normal;    -webkit-font-smoothing: antialiased;    -moz-osx-font-smoothing: grayscale;  }    /* 时间轴生肖icon */  svg.icon {    /* 这里定义svg.icon，避免和Butterfly自带的note标签冲突 */    width: 1em;    height: 1em;    /* width和height定义图标的默认宽度和高度*/    vertical-align: -0.15em;    fill: currentColor;    overflow: hidden;  }    .icon-zhongbiao::before {    color: #f7c768;  }    /* bilibli番剧插件 */  .bangumi-active {    background: #dbecfe !important;    border-radius: 10px !important;  }  a.bangumi-tab:hover {    text-decoration: none !important;  }  .bangumi-button:hover {    background: #dbecfe !important;    border-radius: 10px !important;  }  a.bangumi-button.bangumi-nextpage:hover {    text-decoration: none !important;  }  .bangumi-button {    padding: 5px 10px !important;  }    a.bangumi-tab {    padding: 5px 10px !important;  }  svg.icon.faa-tada {    font-size: 1.1em;  }    /* 解决artitalk的图标问题 */  #uploadSource > svg {    width: 1.19em;    height: 1.5em;  }    /*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */  #page-header:not(.not-top-img):before {    background-color: transparent !important;  }    /* 首页文章卡片 */  #recent-posts > .recent-post-item {    background: rgba(255, 255, 255, 0.9);  }    /* 首页侧栏卡片 */  #aside-content .card-widget {    background: rgba(255, 255, 255, 0.9);  }    /* 文章页面正文背景 */  div#post {    background: rgba(255, 255, 255, 0.9);  }    /* 分页页面 */  div#page {    background: rgba(255, 255, 255, 0.9);  }    /* 归档页面 */  div#archive {    background: rgba(255, 255, 255, 0.9);  }    /* 标签页面 */  div#tag {    background: rgba(255, 255, 255, 0.9);  }    /* 分类页面 */  div#category {    background: rgba(255, 255, 255, 0.9);  }    /*夜间模式伪类遮罩层透明*/  [data-theme='dark'] #recent-posts > .recent-post-item {    background: #121212;  }    [data-theme='dark'] .card-widget {    background: #121212 !important;  }    [data-theme='dark'] div#post {    background: #121212 !important;  }    [data-theme='dark'] div#tag {    background: #121212 !important;  }    [data-theme='dark'] div#archive {    background: #121212 !important;  }    [data-theme='dark'] div#page {    background: #121212 !important;  }    [data-theme='dark'] div#category {    background: #121212 !important;  }    [data-theme='dark'] div#category {    background: transparent !important;  }  /* 页脚透明 */  #footer {    background: transparent !important;  }    /* 头图透明 */  #page-header {    background: transparent !important;  }    #rightside > div > button {    border-radius: 5px;  }    /* 滚动条 */    ::-webkit-scrollbar {    width: 10px;    height: 10px;  }    ::-webkit-scrollbar-thumb {    background-color: #49b1f5;    border-radius: 2em;  }    ::-webkit-scrollbar-corner {    background-color: transparent;  }    ::-moz-selection {    color: #fff;    background-color: #49b1f5;  }    /* 音乐播放器 */    /* .aplayer .aplayer-lrc {    display: none !important;  } */    .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {    left: -66px !important;    transition: all 0.3s;    /* 默认情况下缩进左侧66px，只留一点箭头部分 */  }    .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {    left: 0 !important;    transition: all 0.3s;    /* 鼠标悬停是左侧缩进归零，完全显示按钮 */  }    .aplayer.aplayer-fixed {    z-index: 999999 !important;  }    /* 评论框  */  .vwrap {    box-shadow: 2px 2px 5px #bbb;    background: rgba(255, 255, 255, 0.3);    border-radius: 8px;    padding: 30px;    margin: 30px 0px 30px 0px;  }    /* 设置评论框 */    .vcard {    box-shadow: 2px 2px 5px #bbb;    background: rgba(255, 255, 255, 0.3);    border-radius: 8px;    padding: 30px;    margin: 30px 0px 0px 0px;  }    /* 鼠标图标 */  body {    cursor: url('/img/x1.cur'), auto;  }  a,  [type='button']:not(:disabled),  [type='reset']:not(:disabled),  [type='submit']:not(:disabled),  button:not(:disabled) {    cursor: url('/img/x2.cur'), auto !important;  }  /* md网站下划线 */  #article-container a:hover {    text-decoration: none !important;  }    #article-container #hpp_talk p img {    display: inline;  }    /* 404页面 */  #error-wrap {    position: absolute;    top: 40%;    right: 0;    left: 0;    margin: 0 auto;    padding: 0 1rem;    max-width: 1000px;    transform: translate(0, -50%);  }    #error-wrap .error-content {    display: flex;    flex-direction: row;    justify-content: center;    align-items: center;    margin: 0 1rem;    height: 18rem;    border-radius: 8px;    background: var(--card-bg);    box-shadow: var(--card-box-shadow);    transition: all 0.3s;  }    #error-wrap .error-content .error-img {    box-flex: 1;    flex: 1;    height: 100%;    border-top-left-radius: 8px;    border-bottom-left-radius: 8px;    background-color: #49b1f5;    background-position: center;    background-size: cover;  }    #error-wrap .error-content .error-info {    box-flex: 1;    flex: 1;    padding: 0.5rem;    text-align: center;    font-size: 14px;    font-family: Titillium Web, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;  }  #error-wrap .error-content .error-info .error_title {    margin-top: -4rem;    font-size: 9em;  }  #error-wrap .error-content .error-info .error_subtitle {    margin-top: -3.5rem;    word-break: break-word;    font-size: 1.6em;  }  #error-wrap .error-content .error-info a {    display: inline-block;    margin-top: 0.5rem;    padding: 0.3rem 1.5rem;    background: var(--btn-bg);    color: var(--btn-color);  }    #body-wrap.error .aside-list {    display: flex;    flex-direction: row;    flex-wrap: nowrap;    bottom: 0px;    position: absolute;    padding: 1rem;    width: 100%;    overflow: scroll;  }    #body-wrap.error .aside-list .aside-list-group {    display: flex;    flex-direction: row;    flex-wrap: nowrap;    max-width: 1200px;    margin: 0 auto;  }    #body-wrap.error .aside-list .aside-list-item {    padding: 0.5rem;  }    #body-wrap.error .aside-list .aside-list-item img {    width: 100%;    object-fit: cover;    border-radius: 12px;  }    #body-wrap.error .aside-list .aside-list-item .thumbnail {    overflow: hidden;    width: 230px;    height: 143px;    background: var(--heo-card-bg);    display: flex;  }    #body-wrap.error .aside-list .aside-list-item .content .title {    -webkit-line-clamp: 2;    overflow: hidden;    display: -webkit-box;    -webkit-box-orient: vertical;    line-height: 1.5;    justify-content: center;    align-items: flex-end;    align-content: center;    padding-top: 0.5rem;    color: white;  }    #body-wrap.error .aside-list .aside-list-item .content time {    display: none;  }    /* 代码框主题 */  #article-container figure.highlight {    border-radius: 10px;  }  ]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/coin/coin.js"/>
+      <url>/js/coin/coin.js</url>
+      
+        <content type="html"><![CDATA[var tipButtons = document.querySelectorAll('.tip-button');function coinAudio() {  var coinAudio = document.getElementById('coinAudio');  if (coinAudio) {    coinAudio.play(); //有音频时播放  }}// Loop through all buttons (allows for multiple buttons on page)tipButtons.forEach(button => {  var coin = button.querySelector('.coin');  // The larger the number, the slower the animation  coin.maxMoveLoopCount = 90;  button.addEventListener('click', () => {    if (/Android|webOS|BlackBerry/i.test(navigator.userAgent)) return true; //媒体选择    if (button.clicked) return;    button.classList.add('clicked');    // Wait to start flipping th coin because of the button tilt animation    setTimeout(() => {      // Randomize the flipping speeds just for fun      coin.sideRotationCount = Math.floor(Math.random() * 5) * 90;      coin.maxFlipAngle = (Math.floor(Math.random() * 4) + 3) * Math.PI;      button.clicked = true;      flipCoin();      coinAudio();    }, 50);  });  var flipCoin = () => {    coin.moveLoopCount = 0;    flipCoinLoop();  };  var resetCoin = () => {    coin.style.setProperty('--coin-x-multiplier', 0);    coin.style.setProperty('--coin-scale-multiplier', 0);    coin.style.setProperty('--coin-rotation-multiplier', 0);    coin.style.setProperty('--shine-opacity-multiplier', 0.4);    coin.style.setProperty('--shine-bg-multiplier', '50%');    coin.style.setProperty('opacity', 1);    // Delay to give the reset animation some time before you can click again    setTimeout(() => {      button.clicked = false;    }, 300);  };  var flipCoinLoop = () => {    coin.moveLoopCount++;    var percentageCompleted = coin.moveLoopCount / coin.maxMoveLoopCount;    coin.angle = -coin.maxFlipAngle * Math.pow(percentageCompleted - 1, 2) + coin.maxFlipAngle;    // Calculate the scale and position of the coin moving through the air    coin.style.setProperty('--coin-y-multiplier', -11 * Math.pow(percentageCompleted * 2 - 1, 4) + 11);    coin.style.setProperty('--coin-x-multiplier', percentageCompleted);    coin.style.setProperty('--coin-scale-multiplier', percentageCompleted * 0.6);    coin.style.setProperty('--coin-rotation-multiplier', percentageCompleted * coin.sideRotationCount);    // Calculate the scale and position values for the different coin faces    // The math uses sin/cos wave functions to similate the circular motion of 3D spin    coin.style.setProperty('--front-scale-multiplier', Math.max(Math.cos(coin.angle), 0));    coin.style.setProperty('--front-y-multiplier', Math.sin(coin.angle));    coin.style.setProperty('--middle-scale-multiplier', Math.abs(Math.cos(coin.angle), 0));    coin.style.setProperty('--middle-y-multiplier', Math.cos((coin.angle + Math.PI / 2) % Math.PI));    coin.style.setProperty('--back-scale-multiplier', Math.max(Math.cos(coin.angle - Math.PI), 0));    coin.style.setProperty('--back-y-multiplier', Math.sin(coin.angle - Math.PI));    coin.style.setProperty('--shine-opacity-multiplier', 4 * Math.sin((coin.angle + Math.PI / 2) % Math.PI) - 3.2);    coin.style.setProperty(      '--shine-bg-multiplier',      -40 * (Math.cos((coin.angle + Math.PI / 2) % Math.PI) - 0.5) + '%'    );    // Repeat animation loop    if (coin.moveLoopCount < coin.maxMoveLoopCount) {      if (coin.moveLoopCount === coin.maxMoveLoopCount - 6) button.classList.add('shrink-landing');      window.requestAnimationFrame(flipCoinLoop);    } else {      button.classList.add('coin-landed');      coin.style.setProperty('opacity', 0);      setTimeout(() => {        button.classList.remove('clicked', 'shrink-landing', 'coin-landed');        setTimeout(() => {          resetCoin();        }, 300);      }, 1500);    }  };});]]></content>
       
     </entry>
     
@@ -195,11 +208,11 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title></title>
+      <link href="/js/runtime/runtime.min.js"/>
+      <url>/js/runtime/runtime.min.js</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[var now=new Date;function createtime(){var t=new Date("09/05/2022 00:00:00");now.setTime(now.getTime()+250);var e=(now-t)/1e3/60/60/24,a=Math.floor(e),n=(now-t)/1e3/60/60-24*a,r=Math.floor(n);1==String(r).length&&(r="0"+r);var s=(now-t)/1e3/60-1440*a-60*r,i=Math.floor(s);1==String(i).length&&(i="0"+i);var o=(now-t)/1e3-86400*a-3600*r-60*i,l=Math.round(o);1==String(l).length&&(l="0"+l);let g="";g=r<18&&r>=9?`<img class='boardsign' src='/img/shangban.svg' title='距离月入25k也就还差一个大佬带我~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`:`<img class='boardsign' src='/img/xiaban.svg' title='下班了就该开开心心的玩耍，嘿嘿~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=g)}setInterval(()=>{createtime()},250);]]></content>
       
     </entry>
     

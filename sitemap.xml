@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.yangzhiblog.com/about/index.html</loc>
+    
+    <lastmod>2022-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yangzhiblog.com/posts/84ef40ab.html</loc>
+    
+    <lastmod>2022-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yangzhiblog.com/posts/2150b47.html</loc>
     
     <lastmod>2022-09-16</lastmod>
@@ -21,15 +39,6 @@
   
   <url>
     <loc>https://www.yangzhiblog.com/link/index.html</loc>
-    
-    <lastmod>2022-09-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yangzhiblog.com/about/index.html</loc>
     
     <lastmod>2022-09-12</lastmod>
     
@@ -103,7 +112,7 @@
 
   <url>
     <loc>https://www.yangzhiblog.com/</loc>
-    <lastmod>2022-09-20</lastmod>
+    <lastmod>2022-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
