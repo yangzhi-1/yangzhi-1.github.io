@@ -1,6 +1,8 @@
 ## 记录我的Hexo博客搭建的点点滴滴
-> **博客地址：暂无**
-### 预览
+## > **博客地址：暂无**
+## 使用主题
+> **安知鱼主题**
+## 博客预览
 [![1.png](https://img1.imgtp.com/2023/07/25/F3rQprgo.png)](https://img1.imgtp.com/2023/07/25/F3rQprgo.png)
 [![2.png](https://img1.imgtp.com/2023/07/25/CN4nQUHN.png)](https://img1.imgtp.com/2023/07/25/CN4nQUHN.png)
 [![3.png](https://img1.imgtp.com/2023/07/25/Fs3JyB1u.png)](https://img1.imgtp.com/2023/07/25/Fs3JyB1u.png)
