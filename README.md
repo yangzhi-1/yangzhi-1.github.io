@@ -4,10 +4,9 @@
 ## 使用主题
 > **安知鱼主题**
 ## 博客预览
-![](https://gitee.com/yangzhi-1/picture/raw/master/CN4nQUHN.png)
-![](https://gitee.com/yangzhi-1/picture/raw/master/rIRGNA3T.png)
-![](https://gitee.com/yangzhi-1/picture/raw/master/aTlevBAd.png)
-![](https://gitee.com/yangzhi-1/picture/raw/master/F3rQprgo.png)
-![](https://gitee.com/yangzhi-1/picture/raw/master/Fs3JyB1u.png)
-![](https://gitee.com/yangzhi-1/picture/raw/master/BuLRpEBF.png)
-![](https://gitee.com/yangzhi-1/picture/raw/master/1YgkyVBD.png)
+![](https://gitee.com/yangzhi-1/picture/raw/master/6.jpg)
+![](https://gitee.com/yangzhi-1/picture/raw/master/5.jpg)
+![](https://gitee.com/yangzhi-1/picture/raw/master/4.jpg)
+![](https://gitee.com/yangzhi-1/picture/raw/master/3.jpg)
+![](https://gitee.com/yangzhi-1/picture/raw/master/2.jpg)
+![](https://gitee.com/yangzhi-1/picture/raw/master/1.jpg)
