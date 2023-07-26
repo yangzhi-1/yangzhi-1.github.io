@@ -4,11 +4,10 @@
 ## 使用主题
 > **安知鱼主题**
 ## 博客预览
-[![1.png](https://img1.imgtp.com/2023/07/25/F3rQprgo.png)](https://img1.imgtp.com/2023/07/25/F3rQprgo.png)
-[![2.png](https://img1.imgtp.com/2023/07/25/CN4nQUHN.png)](https://img1.imgtp.com/2023/07/25/CN4nQUHN.png)
-[![3.png](https://img1.imgtp.com/2023/07/25/Fs3JyB1u.png)](https://img1.imgtp.com/2023/07/25/Fs3JyB1u.png)
-[![4.png](https://img1.imgtp.com/2023/07/25/rIRGNA3T.png)](https://img1.imgtp.com/2023/07/25/rIRGNA3T.png)
-[![5.png](https://img1.imgtp.com/2023/07/25/aTlevBAd.png)](https://img1.imgtp.com/2023/07/25/aTlevBAd.png)
-[![6.png](https://img1.imgtp.com/2023/07/25/1YgkyVBD.png)](https://img1.imgtp.com/2023/07/25/1YgkyVBD.png)
-[![7.png](https://img1.imgtp.com/2023/07/25/x85rNBTB.png)](https://img1.imgtp.com/2023/07/25/x85rNBTB.png)
-[![8.png](https://img1.imgtp.com/2023/07/25/BuLRpEBF.png)](https://img1.imgtp.com/2023/07/25/BuLRpEBF.png)
+![](https://gitee.com/yangzhi-1/picture/raw/master/CN4nQUHN.png)
+![](https://gitee.com/yangzhi-1/picture/raw/master/rIRGNA3T.png)
+![](https://gitee.com/yangzhi-1/picture/raw/master/aTlevBAd.png)
+![](https://gitee.com/yangzhi-1/picture/raw/master/F3rQprgo.png)
+![](https://gitee.com/yangzhi-1/picture/raw/master/Fs3JyB1u.png)
+![](https://gitee.com/yangzhi-1/picture/raw/master/BuLRpEBF.png)
+![](https://gitee.com/yangzhi-1/picture/raw/master/1YgkyVBD.png)
