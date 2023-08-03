@@ -398,8 +398,8 @@ queueMicrotask(() => {
   const init = () => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
-      envId: 'cloudbase-baas-3gxlyfee87346ef2',
-      region: 'ap-shanghai',
+      envId: 'https://twikoo.yangzhiblog.com/',
+      region: '',
       onCommentLoaded: function () {
         anzhiyu.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
       }
@@ -410,8 +410,8 @@ queueMicrotask(() => {
     const countELement = document.getElementById('twikoo-count')
     if(!countELement) return
     twikoo.getCommentsCount({
-      envId: 'cloudbase-baas-3gxlyfee87346ef2',
-      region: 'ap-shanghai',
+      envId: 'https://twikoo.yangzhiblog.com/',
+      region: '',
       urls: [window.location.pathname],
       includeReply: false
     }).then(function (res) {
@@ -459,8 +459,8 @@ queueMicrotask(() => {
   const getComment = () => {
     const runTwikoo = () => {
       twikoo.getRecentComments({
-        envId: 'cloudbase-baas-3gxlyfee87346ef2',
-        region: 'ap-shanghai',
+        envId: 'https://twikoo.yangzhiblog.com/',
+        region: '',
         pageSize: 6,
         includeReply: true
       }).then(function (res) {
