@@ -6,6 +6,7 @@
 ## 使用主题
 > **安知鱼主题**
 ## 博客预览
+![](https://bu.dusays.com/2023/08/03/64cb9840f3642.jpg)
 ![](https://gitee.com/yangzhi-1/picture/raw/master/6.jpg)
 ![](https://gitee.com/yangzhi-1/picture/raw/master/5.jpg)
 ![](https://gitee.com/yangzhi-1/picture/raw/master/4.jpg)
