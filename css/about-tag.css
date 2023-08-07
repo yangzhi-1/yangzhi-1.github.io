@@ -1,0 +1,82 @@
+@keyframes floating {
+    0% {
+        transform: translate(0, -4px);
+    }
+    50% {
+        transform: translate(0, 4px);
+    }
+    100% {
+        transform: translate(0, -4px);
+    }
+    }
+    
+    #about-page .author-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 185px;
+    }
+    
+    #about-page .author-tag-left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-right: 355px; /* 设置标签与头像之间的水平间距 */
+    position: absolute;
+    top: 15px;
+    }
+    
+    #about-page .author-tag-right {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 355px; /* 设置标签与头像之间的水平间距 */
+    position: absolute;
+    top: 15px;
+    }
+    /* 移动端隐藏 */
+    @media screen and (max-width: 768px) {
+    #about-page .author-tag-left, #about-page .author-tag-right {
+        display: none;
+    }
+    }
+    
+    #about-page .author-tag-left .author-tag:first-child, #about-page .author-tag-left .author-tag:last-child {
+    margin-right: -16px;
+    }
+    
+    #about-page .author-tag-right .author-tag:first-child, #about-page .author-tag-right .author-tag:last-child {
+    margin-left: -16px;
+    }
+    
+    #about-page .author-tag {
+    transform: translate(0, -4px);
+    padding: 1px 8px;
+    background: #fff;
+    border: 1px solid #e3e8f7;
+    border-radius: 40px;
+    margin-top: 6px;
+    font-size: 14px;
+    font-weight: bold;
+    box-shadow: 0 5px 12px -5px rgba(102, 68, 68, 0.00);
+    animation: 4s ease-in-out 0s infinite normal none running floating;
+    }
+    /* 适配深色模式 */
+    [data-theme="dark"] #about-page .author-tag {
+    background: #1e1e1e;
+    }
+    #about-page .author-tag:nth-child(1) {
+    animation-delay: 0s;
+    }
+    
+    #about-page .author-tag:nth-child(2) {
+    animation-delay: 0.6s;
+    }
+    
+    #about-page .author-tag:nth-child(3) {
+    animation-delay: 1.2s;
+    }
+    
+    #about-page .author-tag:nth-child(4) {
+    animation-delay: 1.8s;
+    }
