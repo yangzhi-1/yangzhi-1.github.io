@@ -180,20 +180,6 @@
   </url>
   
   <url>
-    <loc>https://yangzhiblog.com/tags/Tag-Plugins/</loc>
-    <lastmod>2023-08-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yangzhiblog.com/tags/Hexo/</loc>
-    <lastmod>2023-08-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://yangzhiblog.com/tags/%E6%96%B0%E5%BB%BA/</loc>
     <lastmod>2023-08-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -202,6 +188,20 @@
   
   <url>
     <loc>https://yangzhiblog.com/tags/%E5%BF%83%E7%81%B5/</loc>
+    <lastmod>2023-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yangzhiblog.com/tags/Tag-Plugins/</loc>
+    <lastmod>2023-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yangzhiblog.com/tags/Hexo/</loc>
     <lastmod>2023-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
