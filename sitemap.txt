@@ -1,3 +1,4 @@
+https://yangzhiblog.com/link/index.html
 https://yangzhiblog.com/posts/d50a.html
 https://yangzhiblog.com/posts/13560.html
 https://yangzhiblog.com/posts/16107.html
@@ -6,7 +7,6 @@ https://yangzhiblog.com/posts/41958.html
 https://yangzhiblog.com/categories/index.html
 https://yangzhiblog.com/album/index.html
 https://yangzhiblog.com/air-conditioner/index.html
-https://yangzhiblog.com/link/index.html
 https://yangzhiblog.com/dailyPhoto/index.html
 https://yangzhiblog.com/equipment/index.html
 https://yangzhiblog.com/json/music.json
