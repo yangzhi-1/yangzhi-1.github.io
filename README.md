@@ -1,4 +1,4 @@
-[![yangzhi/yangzhi](https://gitee.com/yangzhi-1/yangzhi/widgets/widget_card.svg?colors=393222,ebdfc1,fffae5,d8ca9f,393222,a28b40)](https://gitee.com/yangzhi-1/yangzhi)
+[![yangzhi/yangzhi-1](https://gitee.com/yangzhi-1/yangzhi-1/widgets/widget_card.svg?colors=ffffff,1e252b,323d47,455059,d7deea,99a0ae)](https://gitee.com/yangzhi-1/yangzhi-1)
 
 ## 记录我的Hexo博客搭建的点点滴滴
 ## 博客地址
