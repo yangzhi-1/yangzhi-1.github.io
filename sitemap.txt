@@ -18,10 +18,10 @@ https://yangzhi-1.gitee.io/essay/index.html
 https://yangzhi-1.gitee.io/tags/index.html
 https://yangzhi-1.gitee.io/
 https://yangzhi-1.gitee.io/tags/%E4%BB%B0%E6%AD%A2/
-https://yangzhi-1.gitee.io/tags/%E6%96%B0%E5%BB%BA/
-https://yangzhi-1.gitee.io/tags/%E5%BF%83%E7%81%B5/
 https://yangzhi-1.gitee.io/tags/Tag-Plugins/
 https://yangzhi-1.gitee.io/tags/Hexo/
+https://yangzhi-1.gitee.io/tags/%E6%96%B0%E5%BB%BA/
+https://yangzhi-1.gitee.io/tags/%E5%BF%83%E7%81%B5/
 https://yangzhi-1.gitee.io/categories/%E4%BB%B0%E6%AD%A2/
 https://yangzhi-1.gitee.io/categories/%E6%96%B0%E5%BB%BA/
 https://yangzhi-1.gitee.io/categories/%E5%BF%83%E7%81%B5/
