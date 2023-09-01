@@ -2,7 +2,7 @@
 
 ## 记录我的Hexo博客搭建的点点滴滴
 ## 博客地址
-> **https://yangzhi-1.gitee.io**
+> **https://yangzhiblog.com**
 ## 使用主题
 > **安知鱼主题**
 ## 博客预览
