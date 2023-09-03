@@ -430,6 +430,30 @@ const anzhiyu = {
     }
     rm.hideRightMenu();
   },
+  initPaginationObserver: () => {
+    const commentElement = document.getElementById("post-comment");
+    const paginationElement = document.getElementById("pagination");
+
+    if (commentElement && paginationElement) {
+      new IntersectionObserver(entries => {
+        const commentBarrage = document.querySelector(".comment-barrage");
+
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            paginationElement.classList.add("show-window");
+            if (commentBarrage) {
+              commentBarrage.style.bottom = "-200px";
+            }
+          } else {
+            paginationElement.classList.remove("show-window");
+            if (commentBarrage) {
+              commentBarrage.style.bottom = "0px";
+            }
+          }
+        });
+      }).observe(commentElement);
+    }
+  },
   // 初始化即刻
   initIndexEssay: function () {
     if (!document.getElementById("bbTimeList")) return;
@@ -1297,6 +1321,12 @@ const anzhiyu = {
     const greetings = GLOBAL_CONFIG.authorStatus.skills;
 
     const authorInfoSayHiElement = document.getElementById("author-info__sayhi");
+
+    // 如果只有一个问候语，设置为默认值
+    if (greetings.length === 1) {
+      authorInfoSayHiElement.textContent = greetings[0];
+      return;
+    }
 
     let lastSayHello = authorInfoSayHiElement.textContent;
 
