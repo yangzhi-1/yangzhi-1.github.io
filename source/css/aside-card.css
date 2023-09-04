@@ -1,0 +1,16 @@
+/*作者卡片颜色*/
+#aside-content >.card-widget.card-info::before {
+    background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(1,194,255,1) 23%, rgba(18,216,250,1) 48%, rgba(142,227,177,1) 78%, rgba(255,214,127,1) 100%);    background-size: 400%; /* 增加大小以创建动画的空间，这里将宽度减半 */
+    animation: gradient 12s ease-in-out infinite;
+}
+
+/* 定义名为 gradient 的 @keyframes 规则 */
+@keyframes gradient {
+    0% {
+        background-position: left center; /* 使用 to 关键字来简化起始位置 */
+    }
+    100% {
+        background-position: right center; /* 使用 to 关键字来简化结束位置 */
+    }
+}
+    

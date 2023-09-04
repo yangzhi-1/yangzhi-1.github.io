@@ -1,0 +1,28 @@
+- title: 即刻短文
+  subTitle: 我的日常生活。
+  tips: 随时随地，分享生活
+  buttonText: 关于我
+  buttonLink: /about/
+  limit: 30
+  home_essay: true
+  top_background: https://bu.dusays.com/2023/07/26/64c102ac46047.jpg
+  essay_list:
+    - content: 音乐支持了参数设置自定义歌单
+      date: 2023/01/02
+      link: https://www.yangzhiblog.com/music/
+    - content: 关于页的打赏仿了b站的充电功能，使用svg绘图➕一些动画参数移动，应该不会被b站警告吧😜，另外文章也支持了顶部随机b站同款春秋冬banner。
+      date: 2022/12/18
+    - content: 搜索🔍支持缩略图显示啦（默认获取文章内容的第一张图片）
+      date: 2022/10/23 08:00:00
+      from: 仰止
+    - content: 遇见彩虹🌈吃定彩虹
+      date: 2022/10/23 10:00:00
+      image:
+        - https://bu.dusays.com/2023/04/09/64329399e285d.webp
+        - https://bu.dusays.com/2023/04/09/64329399aa3bc.webp
+        - https://bu.dusays.com/2023/04/09/6432939996dd7.webp
+    - content: 歌曲推荐
+      date: 2022/09/25
+      aplayer:
+        server: tencent
+        id: 001FGQba3i10mw
