@@ -189,6 +189,13 @@
   </url>
   
   <url>
+    <loc>https://yangzhiblog.com/tags/%E6%96%B0%E5%BB%BA/</loc>
+    <lastmod>2023-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yangzhiblog.com/tags/%E5%BF%83%E7%81%B5/</loc>
     <lastmod>2023-09-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -209,13 +216,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://yangzhiblog.com/tags/%E6%96%B0%E5%BB%BA/</loc>
-    <lastmod>2023-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -226,14 +226,14 @@
   </url>
   
   <url>
-    <loc>https://yangzhiblog.com/categories/%E5%BF%83%E7%81%B5/</loc>
+    <loc>https://yangzhiblog.com/categories/%E6%96%B0%E5%BB%BA/</loc>
     <lastmod>2023-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yangzhiblog.com/categories/%E6%96%B0%E5%BB%BA/</loc>
+    <loc>https://yangzhiblog.com/categories/%E5%BF%83%E7%81%B5/</loc>
     <lastmod>2023-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
