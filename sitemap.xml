@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yangzhiblog.com/update/index.html</loc>
+    <loc>https://yangzhiblog.com/privacy/index.html</loc>
     
-    <lastmod>2023-09-09</lastmod>
+    <lastmod>2023-09-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://yangzhiblog.com/privacy/index.html</loc>
+    <loc>https://yangzhiblog.com/update/index.html</loc>
     
-    <lastmod>2023-09-08</lastmod>
+    <lastmod>2023-09-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -184,7 +184,7 @@
 
   <url>
     <loc>https://yangzhiblog.com/</loc>
-    <lastmod>2023-09-10</lastmod>
+    <lastmod>2023-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -192,35 +192,35 @@
   
   <url>
     <loc>https://yangzhiblog.com/tags/%E4%BB%B0%E6%AD%A2/</loc>
-    <lastmod>2023-09-10</lastmod>
+    <lastmod>2023-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yangzhiblog.com/tags/%E6%96%B0%E5%BB%BA/</loc>
-    <lastmod>2023-09-10</lastmod>
+    <lastmod>2023-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yangzhiblog.com/tags/%E5%BF%83%E7%81%B5/</loc>
-    <lastmod>2023-09-10</lastmod>
+    <lastmod>2023-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yangzhiblog.com/tags/Tag-Plugins/</loc>
-    <lastmod>2023-09-10</lastmod>
+    <lastmod>2023-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yangzhiblog.com/tags/Hexo/</loc>
-    <lastmod>2023-09-10</lastmod>
+    <lastmod>2023-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -229,21 +229,21 @@
   
   <url>
     <loc>https://yangzhiblog.com/categories/%E4%BB%B0%E6%AD%A2/</loc>
-    <lastmod>2023-09-10</lastmod>
+    <lastmod>2023-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yangzhiblog.com/categories/%E6%96%B0%E5%BB%BA/</loc>
-    <lastmod>2023-09-10</lastmod>
+    <lastmod>2023-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yangzhiblog.com/categories/%E5%BF%83%E7%81%B5/</loc>
-    <lastmod>2023-09-10</lastmod>
+    <lastmod>2023-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
