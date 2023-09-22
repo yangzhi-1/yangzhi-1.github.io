@@ -1,10 +1,10 @@
+https://yangzhiblog.com/posts/9072.html
 https://yangzhiblog.com/privacy/index.html
 https://yangzhiblog.com/update/index.html
 https://yangzhiblog.com/link/index.html
 https://yangzhiblog.com/posts/d50a.html
 https://yangzhiblog.com/posts/13560.html
 https://yangzhiblog.com/posts/16107.html
-https://yangzhiblog.com/posts/9072.html
 https://yangzhiblog.com/posts/41958.html
 https://yangzhiblog.com/categories/index.html
 https://yangzhiblog.com/album/index.html
@@ -20,10 +20,10 @@ https://yangzhiblog.com/essay/index.html
 https://yangzhiblog.com/tags/index.html
 https://yangzhiblog.com/
 https://yangzhiblog.com/tags/%E4%BB%B0%E6%AD%A2/
-https://yangzhiblog.com/tags/%E6%96%B0%E5%BB%BA/
+https://yangzhiblog.com/tags/%E5%A4%A9%E5%B1%B1/
 https://yangzhiblog.com/tags/%E5%BF%83%E7%81%B5/
 https://yangzhiblog.com/tags/Tag-Plugins/
 https://yangzhiblog.com/tags/Hexo/
 https://yangzhiblog.com/categories/%E4%BB%B0%E6%AD%A2/
-https://yangzhiblog.com/categories/%E6%96%B0%E5%BB%BA/
+https://yangzhiblog.com/categories/%E7%A7%91%E6%99%AE/
 https://yangzhiblog.com/categories/%E5%BF%83%E7%81%B5/
